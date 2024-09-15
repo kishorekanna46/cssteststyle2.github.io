@@ -1,4 +1,4 @@
-/* <--------Even Qustn---------->    */
+/* <--------Even Question---------->    */
 
 /* 
 1. Mandatory labels first letter should be bold than other characters  */
@@ -11,14 +11,14 @@
 2. Achieve using the HTML & make it in red '*' */
 
 .form1 span{
-    color: red;
+    color: rgb(182, 5, 5);
 }
 
 /*
 3. Dropdown selected should have shadow  */
 
 .form1 select{
-    box-shadow: 3px 3px 15px rgb(19, 19, 19);
+    box-shadow: 3px 3px 15px rgb(73, 72, 72);
 }
 
 /*
@@ -45,7 +45,7 @@
 }
 
 
-/* <-------------Odd Qustn--------------->     */
+/* <-------------Odd Question--------------->     */
 
 
 /*
